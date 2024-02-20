@@ -1,0 +1,50 @@
+.card{
+    border: 2px solid gainsboro;
+    width: 556px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.padding{
+    padding: 20px 30px;
+}
+
+.image{
+    width: 100%;
+    object-fit: cover;
+    max-height: 300px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+
+h5{
+    color: grey;
+    font-size: larger;
+    margin-bottom: 0px;
+}
+
+h1{
+    font-size: 34px;
+    font-weight: lighter;
+    margin-top: 15px;
+}
+
+p{
+    color: grey;
+    font-size: 23px;
+    /* padding: 0px 10px; */
+}
+
+.btn{
+    width: 40%;
+    font-size: 22px;
+    padding: 15px;
+    margin: 20px 0;
+    border: 2px solid gainsboro;
+    background-color: white;
+    color: blue;
+    border-radius: 5px;
+    font-weight: bolder;
+}

@@ -1,0 +1,45 @@
+.card{
+    width: 567px;
+    border: 2px solid gainsboro;
+    margin: 150px auto;
+    border-radius: 13px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 0;
+}
+
+p{
+    margin-top: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:  gray;
+    font-size: 20px;
+}
+
+.padding{
+    padding: 20px 30px;
+}
+
+
+img{
+    width: 18%;
+    border-radius: 53px;
+    object-fit: cover;
+    margin: 22px 49px;
+}
+
+
+.footer{
+    border: 1px solid gainsboro ;
+    width: 100%;
+}
+
+h3{
+    margin: 25px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: blue;
+    padding: 2px 30px;
+}
