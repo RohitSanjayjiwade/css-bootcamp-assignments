@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner{
+    position: relative;
+}
+
+.banner-img{
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+
+.item{
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+    position: absolute;
+    bottom: 180px;
+}
+
+.logo{
+    width: 285px;
+}
+
+p{
+    color: white;
+    margin: 26px 0;
+    font-size: 35px;
+}
+
+.search{
+    background-color: white;
+    /* text-align: center; */
+    position: absolute;
+    bottom: 120px;
+    left: 400px;
+    border: none;
+    width: 50%;
+    border-radius: 7px;
+    padding: 11px;
+}
+
+.location{
+    width: 28px;
+}
+
+span{
+    color: gray;
+    margin-left: 2px;
+}
+
+
+.down{
+    width: 20px;
+}
+
+.search-img{
+    width: 22px;
+    margin-left: 12px;
+}
+
+
+
+.hrr{
+    /* border: 2px solid navy; */
+    margin-left: 120px;
+}
+
+.foot{
+    margin-left: 13px;
+}
+
+.red-color{
+    color: rgb(255, 16, 16);
+}
+
+.black-color{
+    color: rgb(61, 58, 58);
+}

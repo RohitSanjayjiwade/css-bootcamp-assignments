@@ -1,0 +1,30 @@
+.banner{
+    width: 100%;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.banner-img{
+    width: 100%;
+    height: 700px;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.item{
+    /* border: 2px solid red; */
+    text-align: center;
+    position: absolute;
+    bottom: 200px;
+    color: white;
+}
+
+.btn{
+    margin: 5px;
+    padding: 15px;
+    border-radius: 35px;
+    border: none;
+    width: 9%;
+}
+
